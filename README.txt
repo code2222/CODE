@@ -7,7 +7,7 @@ Username: guest@bionthefly.com
 password: code2014$
 
 Then copy and paste the following in the browser:
-https://bionthefly.sharepoint.com/sites/dataExperts/_layouts/15/WopiFrame.aspx?sourcedoc={c55c1a97-fd69-4786-a27f-d24955c68eb3}&action=embedview
+https://bionthefly.sharepoint.com/sites/dataExperts/_layouts/15/WopiFrame.aspx?sourcedoc={8217656e-8c75-4862-9338-a9f5430fc4da}&action=embedview
  
 
 Navigate through all tabs
